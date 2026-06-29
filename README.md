@@ -46,12 +46,6 @@ The first industrial implementation of the RSA framework (v2.9.0), ensuring real
 
 ---
 
-## 📊 Sentinel Stats
-![Vikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vikki-T47&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030508)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikki-T47&layout=compact&theme=tokyonight&hide_border=true&bg_color=030508)
-
----
-
 ## 👋 Contact
 I am open to collaborating with architects, engineers, and researchers who recognize that probabilities cannot guarantee safety, and that system balance requires a deterministic membrane.
 
