@@ -57,7 +57,7 @@ The first industrial implementation of the RSA framework (v2.9.0), ensuring real
 I am open to collaborating with architects, engineers, and researchers who recognize that probabilities cannot guarantee safety, and that system balance requires a deterministic membrane.
 
 *   **LinkedIn:** [Viktor Trompak](https://www.linkedin.com/in/vikki-trompak-4213693a0/)
-*   **Location:** Planet Earth (Uzhhorod, Ukraine)
+*   **Location:** Planet Earth (Ukraine)
 *   **Mission:** Ensuring long-term biological compatibility between Human and Artificial Intelligence.
 
 ---
