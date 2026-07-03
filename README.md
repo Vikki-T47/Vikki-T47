@@ -1,3 +1,5 @@
+
+<img width="1408" height="768" alt="ШАР_VIKI_БОЛЬШОЙ" src="https://github.com/user-attachments/assets/b159f97a-2ba1-4de8-af1f-a85495997a24" />
 # 🛰️ V.I.K.I. | Vital Interface for Kinetic Integration
 
 ### Independent AI Behavioral Architect & Researcher
